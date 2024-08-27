@@ -15,7 +15,7 @@ module.exports = {
       summary: `- occasionally functional human.`,
     },
     description: `My little corner of the internet`,
-    siteUrl: `https://ytkluev.dev`,
+    siteUrl: `https://techlia.me`,
     social : {
       github: `ykluev`,
       linkedin: `yulia-kluev`
